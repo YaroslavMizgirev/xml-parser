@@ -1,0 +1,10 @@
+allprojects {
+    group = 'org.mym'
+    version = '1.0.1'
+}
+
+subprojects {
+    repositories {
+        mavenCentral()
+    }
+}
